@@ -1,0 +1,40 @@
+body{
+    padding:10em;
+    background-color:#E3D26F;
+}
+
+#post{
+    background-color: #2E294E;
+    color:#E3D26F;
+    padding : 2em;
+    /*font-family: 'Slabo 27px', serif;*/
+    font-family: 'Space Mono', monospace;
+}
+
+#letter{
+    background-color: #2E294E;
+    padding : 2em;
+    /*font-family: 'Slabo 27px', serif;*/
+    font-family: 'Space Mono', monospace;
+    margin-top:2em;
+    color:#E3D26F;
+}
+
+#title{
+    font-family: 'VT323', monospace;
+    text-align: center;
+    margin-bottom : 2em;
+    color:#E3D26F;
+}
+
+p{
+    font-size: 2em;
+}
+
+h2{
+    font-weight: bold;
+}
+
+h1{
+    font-size:3em;
+}
