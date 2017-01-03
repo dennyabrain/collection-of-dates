@@ -33,8 +33,14 @@ p{
 
 h2{
     font-weight: bold;
+    background-color:#F26DF9;
+    color:#2E294E;
+    display:inline;
+    margin-left : -2em;
+    padding:0 0.4em 0 0.4em;
 }
 
 h1{
     font-size:3em;
 }
+
