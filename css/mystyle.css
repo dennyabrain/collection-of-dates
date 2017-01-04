@@ -29,6 +29,7 @@ body{
 
 p{
     font-size: 2em;
+    margin:1.2em 0 1.2em 0em;
 }
 
 h2{
@@ -36,11 +37,17 @@ h2{
     background-color:#F26DF9;
     color:#2E294E;
     display:inline;
-    margin-left : -2em;
     padding:0 0.4em 0 0.4em;
+    margin-left:-2em;
 }
 
 h1{
     font-size:3em;
 }
 
+img.emoji{
+    margin: 0px !important;
+    display: inline !important;
+    width: 1.3em;
+    height:1.3em;
+}
